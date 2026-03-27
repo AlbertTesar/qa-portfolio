@@ -7,11 +7,11 @@ This repository contains my QA testing projects.
 It will be continuously updated with new materials and improvements over time.
 
 🧪 Tools:
-Manual Testing: Functional, Smoke, Regression
-Automation: Selenium (Pytest + Allure)
-API Testing: Postman
-Tools: DevTools, Charles, Miro, Obsidian
-Languages: Python (basic), Java (basic), Bash (basic), Git (basic)
+- Manual Testing: Functional, Smoke, Regression
+- Automation: Selenium (Pytest + Allure)
+- API Testing: Postman
+- Tools: DevTools, Charles, Miro, Obsidian
+- Languages: Python (basic), Java (basic), Bash (basic), Git (basic)
 
 
 ## 🔧 Skills
